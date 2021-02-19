@@ -1,2 +1,4 @@
 # Social_Network_Analysis
-anti-racist
+
+
+This is repository for social network analysis for anti-racist and the right community
